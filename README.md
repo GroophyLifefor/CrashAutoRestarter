@@ -18,7 +18,8 @@ click open
 
 thanks for using
 
-https://github.com/Groophy-Lifefor/CrashAutoRestarter/blob/main/in%20app.PNG
+<img style="padding: 1.5px" align="left" alt="CSharp" width="26px" src="https://github.com/Groophy-Lifefor/CrashAutoRestarter/blob/main/in%20app.PNG"/>
+
 
 
 
