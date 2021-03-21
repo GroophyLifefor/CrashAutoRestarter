@@ -25,3 +25,6 @@ thanks for using
 /no license but made by me/
 why not added?
 because this CrashAutoRestarter so easy no need licens
+
+
+<img style="padding: 1.5px" align="left" alt="CSharp" width="300px" src="https://github.com/Groophy-Lifefor/CrashAutoRestarter/blob/main/in%20app2.PNG"/> 
