@@ -1,9 +1,0 @@
-C:\Users\muratgtvb\Desktop\code\projects\CrashAutoRestarter\CrashAutoRestarter\bin\Debug\CrashAutoRestarter.exe.config
-C:\Users\muratgtvb\Desktop\code\projects\CrashAutoRestarter\CrashAutoRestarter\bin\Debug\CrashAutoRestarter.exe
-C:\Users\muratgtvb\Desktop\code\projects\CrashAutoRestarter\CrashAutoRestarter\bin\Debug\CrashAutoRestarter.pdb
-C:\Users\muratgtvb\Desktop\code\projects\CrashAutoRestarter\CrashAutoRestarter\obj\Debug\CrashAutoRestarter.csprojResolveAssemblyReference.cache
-C:\Users\muratgtvb\Desktop\code\projects\CrashAutoRestarter\CrashAutoRestarter\obj\Debug\CrashAutoRestarter.Form1.resources
-C:\Users\muratgtvb\Desktop\code\projects\CrashAutoRestarter\CrashAutoRestarter\obj\Debug\CrashAutoRestarter.Properties.Resources.resources
-C:\Users\muratgtvb\Desktop\code\projects\CrashAutoRestarter\CrashAutoRestarter\obj\Debug\CrashAutoRestarter.csproj.GenerateResource.Cache
-C:\Users\muratgtvb\Desktop\code\projects\CrashAutoRestarter\CrashAutoRestarter\obj\Debug\CrashAutoRestarter.exe
-C:\Users\muratgtvb\Desktop\code\projects\CrashAutoRestarter\CrashAutoRestarter\obj\Debug\CrashAutoRestarter.pdb
