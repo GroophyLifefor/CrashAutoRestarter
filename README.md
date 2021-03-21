@@ -18,11 +18,10 @@ click open
 
 thanks for using
 
-<img style="padding: 1.5px" align="left" alt="CSharp" width="26px" src="https://github.com/Groophy-Lifefor/CrashAutoRestarter/blob/main/in%20app.PNG"/>
-
-
-
+<img style="padding: 1.5px" align="left" alt="CSharp" width="300px" src="https://github.com/Groophy-Lifefor/CrashAutoRestarter/blob/main/in%20app.PNG"/> 
+/
+/
 
 /no license but made by me/
 why not added?
-because this CrashAutoRestarter so easy no need license
+because this CrashAutoRestarter so easy no need licens
