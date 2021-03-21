@@ -17,6 +17,11 @@ if your Server.exe file name different change name in CrashAutoRestarter.exe
 click open
 
 thanks for using
+
+https://github.com/Groophy-Lifefor/CrashAutoRestarter/blob/main/in%20app.PNG
+
+
+
 /no license but made by me/
 why not added?
 because this CrashAutoRestarter so easy no need license
